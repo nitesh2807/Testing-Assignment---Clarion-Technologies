@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17077" started-at="2020-09-09T06:23:00 PDT" finished-at="2020-09-09T06:23:17 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17077" started-at="2020-09-09T06:23:00 PDT" finished-at="2020-09-09T06:23:17 PDT">
+      <class name="End2End">
+        <test-method status="PASS" signature="setup()[pri:0, instance:End2End@887af79]" name="setup" is-config="true" duration-ms="11232" started-at="2020-09-09T06:23:00 PDT" finished-at="2020-09-09T06:23:11 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="launchURL()[pri:1, instance:End2End@887af79]" name="launchURL" duration-ms="1854" started-at="2020-09-09T06:23:11 PDT" finished-at="2020-09-09T06:23:13 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method status="PASS" signature="logintest()[pri:2, instance:End2End@887af79]" name="logintest" duration-ms="1006" started-at="2020-09-09T06:23:13 PDT" finished-at="2020-09-09T06:23:14 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="addpromise()[pri:3, instance:End2End@887af79]" name="addpromise" duration-ms="1867" started-at="2020-09-09T06:23:14 PDT" finished-at="2020-09-09T06:23:16 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addpromise -->
+        <test-method status="PASS" signature="search()[pri:4, instance:End2End@887af79]" name="search" duration-ms="730" started-at="2020-09-09T06:23:16 PDT" finished-at="2020-09-09T06:23:17 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="logout()[pri:5, instance:End2End@887af79]" name="logout" duration-ms="241" started-at="2020-09-09T06:23:17 PDT" finished-at="2020-09-09T06:23:17 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:End2End@887af79]" name="teardown" is-config="true" duration-ms="87" started-at="2020-09-09T06:23:17 PDT" finished-at="2020-09-09T06:23:17 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- End2End -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
